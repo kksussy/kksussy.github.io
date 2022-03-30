@@ -2,7 +2,7 @@
 
 Amog-OS Rom is an AEX based ROM which provides stock UI/UX experience with useful customizations. Being based on AEX it provides a smooth experience. We have added many sussy features from various other open-sus projects and have tried to keep our things sus A ROM by a impostor, for a crewmate. _#BeSussy_
 
-<h3 align="Our Telegram group">Logo:</h3> 
+<h3 align="ledt">Our Telegram Group:</h3> 
 <p align="left"> <a href="https://t.me/amogosrom" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="sus" width="150" height="100"/> </a>
 
 <h3 align="left">Logo:</h3>
