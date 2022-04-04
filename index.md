@@ -1,7 +1,11 @@
-#### Android developer 
+#### AmogOS ROM 
 
-Why this page so SUS
+Amog-OS Rom is an AEX based ROM which provides stock UI/UX experience with useful customizations. Being based on AEX it provides a smooth experience. We have added many sussy features from various other open-sus projects and have tried to keep our things sus A ROM by a impostor, for a crewmate. _#BeSussy_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<h3 align="left">Our Telegram Channel:</h3> 
+<p align="left"> <a href="https://t.me/amogosrom" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="sus" width="150" height="100"/> </a>
+
+<h3 align="left">Logo:</h3>
+<p align="left"> <a href="https://github.com/AmogOS-ROM" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/100059777?s=200&v=4" alt="sus" width="300" height="300"/> </a>
+  
+<h3 align="left">Downloads:</h3>
